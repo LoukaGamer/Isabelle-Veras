@@ -1,0 +1,37 @@
+body {
+    background: turquoise;
+    font-family: cursive;
+    height: 100vh
+   }
+   
+   .menu {
+     background-color: aquamarine;
+     brackground-size:auto 100vh;
+   }                                                     
+   a {
+     color: teal;
+     text-decoration: none;
+   }                                                        
+   a:hover {
+     text-decoration: underline;
+   }                                          
+   .menu ul {
+     display: flex;
+     justify-content: space-around
+   }
+   
+   .menu li { 
+     list-style: none 
+   }
+   
+   .site-title {
+     color: indigo; 
+     text-align: center;
+   }
+   
+   .site-subtitle {
+     color: purple;
+     text-align: center;
+   }
+   
+   
